@@ -1,0 +1,54 @@
+体力-{0:f0} 心情+{1:f0}#Stamina: -{0:f0}, Mood: +{1:f0}:|
+您的桌宠 {0} 生病啦,没法进行{1}#Your desktop pet {0} fell ill, It can't {1}:|
+{2}完成啦, 累计赚了 {0:f2} 金钱\n共计花费了{1}分钟#{2} completed: earned {0:f2} Vpet-bucks:|
+小时#Hour:|
+获得经验值#Gain EXP:|
+剩余{0}时间#Remaining {0} time:|
+累计金钱收益#Earning money:|
+未知的图像位置: #Unknown sprite location: :|
+未知的图像类型: #Unknown sprite type::|
+由于插件引起的自定按钮加载错误#Custom button loading error due to plug-in:|
+快捷键运行失败:无法运行指定内容#Hotkey failed to run: The specified content could not be run:|
+启动错误#Startup error:|
+缺少模组Core,无法启动桌宠#Lack Mod Core, Unable start desktop pet:|
+由于插件引起的游戏启动错误#Game launch error due to plugin:|
+你好#Hello:|
+欢迎使用虚拟桌宠模拟器!\n如果遇到桌宠爬不见了,可以在我这里设置居中或退出桌宠#Welcome to use VPet-Simulator!\nIf you can't find desktop pet, you can set the center or exit the desktop pet in here.:|
+{0} 未加载代码插件#Code plugin {0} not loaded:|
+模组 {0} 的代码插件损坏\n虚拟桌宠模拟器未能成功加载该插件\n请联系MOD作者修复该问题#Mod {0} Code plugins broken\nVPet-Simulator failed to load the plugin\nPlease contact MOD author to fix this problem:|
+由于 {0} 包含代码插件\n虚拟桌宠模拟器已自动停止加载该插件\n请手动前往设置允许启用该mod 代码插件#Since {0} contains code plugin\nVPet-Simulator auto stopped loading the plugin\nplease go to the settings to enabled the mod code plugin:|
+该模组已停用#This mod is Disable:|
+[认证]#[Certificated]:|
+[签名]#[Signed]:|
+所有可执行文件#All executable files:|
+金钱不足#Lack of money:|
+未找到对应类型图像资源#No sprite resources of the corresponding type were found:|
+当前正在播放#Currently playing:|
+当前正在运行#Currently running:|
+暂无该说话方法#None this speaking method:|
+ (版本低)# (Low Version):|
+未登录#Not logged in:|
+停用失败#DisEnable failed:|
+模组 Core 为<虚拟桌宠模拟器>核心文件,无法停用#Core is <VPet-Simulator> core file, cannot be disenable:|
+MOD上传失败#Mod upload failed:|
+模组 Core 为<虚拟桌宠模拟器>核心文件,无法发布\n如需发布自定义内容,请复制并更改名称#Core is <VPet-Simulator> core file, cannot be published\nIf you need to publish custom content, please copy and change the name:|
+封面图片(icon.png)大于500kb,请修改后重试#logo (icon.png) is larger than 500KB, please modify it and try again:|
+MOD上传成功#Mod upload succeed:|
+MOD上传失败 {0}#Mod upload failed {0}:|
+MOD更新成功#Mod update success:|
+任务完成#Task completed:|
+是否启用 {0} 的代码插件?\n一经启用,该插件将会允许访问该系统(包括外部系统)的所有数据\n如果您不确定,请先使用杀毒软件查杀检查#enable code plugin for {0}? \nOnce enabled, plug-in will allow access to all data of the system (including external systems)\nIf you are not sure, please use Antivirus software to check:|
+启用 {0} 的代码插件?#Enable code plugins for {0}?:|
+重启游戏#Restart the game:|
+是否退出游戏<虚拟桌宠模拟器>?\n请注意保存游戏#Exit <VPet-Simulator>?\nPlease pay attention to saving the game:|
+权限不足#Insufficient permissions:|
+创建快捷方式失败,权限不足\n请以管理员身份运行后重试#Failed to create shortcut, insufficient permissions\nPlease run as administrator and try again:|
+桌宠重置失败#Desktop pet reset failed:|
+是否加载该备份存档? 当前游戏数据会丢失#Load the backup save? Current game data will be lost:|
+问题详细描述是反馈具体问题\n例如如何触发这个报错,游戏有什么地方不合理等#Detailed description of the problem is feedback on the specific problem\nLike how to get this errors, What is unreasonable about the game.:|
+请填写问题描述#Please fill in a description of the problem:|
+感谢您的反馈和提交#Thank you for your feedback and submit:|
+您的反馈已提交成功,感谢您的反馈与提交\nVOS将会尽快处理您的反馈并做的更好#Feedback success submitted. Thank you for your feedback and submit\nVOS will process your feedback as soon as possible and do better:|
+您今天的反馈次数已达上限#You've reached your maximum number of feedback today:|
+反馈提交失败,遇到错误#Feedback submit failed with error:|
+存档名称:{0}\n存档等级:{1}\n存档金钱:{2}\nHashCheck:{3}\n是否加载该备份存档? 当前游戏数据会丢失#Save name:{0}\nSave level:{1}\nSave money:{2}\nHashCheck:{3}\nLoad the backup save? Current game data will be lost:|

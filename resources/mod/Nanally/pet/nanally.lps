@@ -1,0 +1,13 @@
+pet#nanally:|intor#重力操控的娜娜莉桌面伙伴:|path#..\..\..\artwork\Nanally\character-512-v1:|petname#娜娜莉:|
+tag#all,nanally,girl:|
+touchhead:|px#150:|py#95:|sw#200:|sh#135:|
+touchbody:|px#180:|py#250:|sw#140:|sh#110:|
+touchraised:|happy_px#140:|happy_py#70:|happy_sw#220:|happy_sh#170:|nomal_px#140:|nomal_py#70:|nomal_sw#220:|nomal_sh#170:|poorcondition_px#140:|poorcondition_py#70:|poorcondition_sw#220:|poorcondition_sh#170:|ill_px#140:|ill_py#70:|ill_sw#220:|ill_sh#170:|
+raisepoint:|happy_x#250:|happy_y#125:|nomal_x#250:|nomal_y#125:|poorcondition_x#250:|poorcondition_y#125:|ill_x#250:|ill_y#125:|
+move:|graph#nanally.walk.left:|Interval#100:|TriggerLeft#200:|TriggerType#16:|CheckLeft#100:|CheckType#16:|SpeedX#-7:|SpeedY#0:|Distance#7:|ModeType#30:|
+move:|graph#nanally.walk.right:|Interval#100:|TriggerRight#200:|TriggerType#32:|CheckRight#100:|CheckType#32:|SpeedX#7:|SpeedY#0:|Distance#7:|ModeType#30:|
+duration:|state#10:|squat#20:|boring#20:|sleep#20:|
+side:|left#219:|right#281:|
+work:|Type#Work:|Name#整理资料:|MoneyBase#8:|Graph#nanally.work.sort:|StrengthFood#3.5:|StrengthDrink#2.5:|Feeling#1:|Time#60:|FinishBonus#0.1:|LevelLimit#0:|BorderBrush#000000:|Background#413d39:|ButtonBackground#322e2b:|ButtonForeground#FFFFFF:|Foreground#ccbdad:|Left#140:|Top#360:|Width#220:|
+work:|Type#Study:|Name#看书:|MoneyBase#80:|Graph#nanally.study.read:|StrengthFood#2:|StrengthDrink#2:|Feeling#3:|Time#45:|FinishBonus#0.2:|LevelLimit#0:|BorderBrush#000000:|Background#413d39:|ButtonBackground#322e2b:|ButtonForeground#FFFFFF:|Foreground#ccbdad:|Left#140:|Top#360:|Width#220:|
+work:|Type#Play:|Name#玩掌机:|MoneyBase#18:|Graph#nanally.play.game:|StrengthFood#1:|StrengthDrink#1.5:|Feeling#-1:|Time#30:|FinishBonus#0.2:|LevelLimit#0:|BorderBrush#000000:|Background#413d39:|ButtonBackground#322e2b:|ButtonForeground#FFFFFF:|Foreground#ccbdad:|Left#140:|Top#360:|Width#220:|

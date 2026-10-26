@@ -1,0 +1,7 @@
+clicktext:|State#Nomal:|Text#我在这里呢。今天想和娜娜莉做些什么？:|tag#nanally:|
+clicktext:|State#Nomal:|Text#重力的方向？当然由我来决定啦。:|tag#nanally:|
+clicktext:|State#Nomal:|Text#别一直盯着屏幕，也记得活动一下哦。:|tag#nanally:|
+LowFoodText:|Mode#H:|Strength#L:|Like#N:|Text#有点饿了，一起找点好吃的吧。:|tag#nanally:|
+LowFoodText:|Mode#L:|Strength#L:|Like#N:|Text#先补充点能量，再陪你继续。:|tag#nanally:|
+LowDrinkText:|Mode#H:|Strength#L:|Like#N:|Text#走了这么久，想喝点水了。:|tag#nanally:|
+LowDrinkText:|Mode#L:|Strength#L:|Like#N:|Text#娜娜莉想喝水，你也记得喝一点哦。:|tag#nanally:|

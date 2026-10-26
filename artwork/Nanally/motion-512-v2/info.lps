@@ -1,0 +1,12 @@
+PNGAnimation#nanally.say.normal:|path#say-normal:|mode#Nomal:|graph#Common:|animat#Single:|loop#true:|
+PNGAnimation#nanally.say.normal:|path#say-normal:|mode#Happy:|graph#Common:|animat#Single:|loop#true:|
+PNGAnimation#nanally.say.normal:|path#say-normal:|mode#PoorCondition:|graph#Common:|animat#Single:|loop#true:|
+PNGAnimation#nanally.say.normal:|path#say-normal:|mode#Ill:|graph#Common:|animat#Single:|loop#true:|
+PNGAnimation#nanally.walk.left:|path#walk-left:|mode#Nomal:|graph#Common:|animat#B_Loop:|loop#true:|
+PNGAnimation#nanally.walk.left:|path#walk-left:|mode#Happy:|graph#Common:|animat#B_Loop:|loop#true:|
+PNGAnimation#nanally.walk.left:|path#walk-left:|mode#PoorCondition:|graph#Common:|animat#B_Loop:|loop#true:|
+PNGAnimation#nanally.walk.left:|path#walk-left:|mode#Ill:|graph#Common:|animat#B_Loop:|loop#true:|
+PNGAnimation#nanally.walk.right:|path#walk-right:|mode#Nomal:|graph#Common:|animat#B_Loop:|loop#true:|
+PNGAnimation#nanally.walk.right:|path#walk-right:|mode#Happy:|graph#Common:|animat#B_Loop:|loop#true:|
+PNGAnimation#nanally.walk.right:|path#walk-right:|mode#PoorCondition:|graph#Common:|animat#B_Loop:|loop#true:|
+PNGAnimation#nanally.walk.right:|path#walk-right:|mode#Ill:|graph#Common:|animat#B_Loop:|loop#true:|

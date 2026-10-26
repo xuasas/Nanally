@@ -1,0 +1,74 @@
+可加入#Joinable:|
+创建#Create:|
+加入#Add:|
+收到来自{0}的访客邀请,是否加入?#Received a Guest List invitation from {0}, do you want to join?:|
+{0}在摸{1}的头#{0} is touching {1}'s head.:|
+{0}花费${3}给{1}买了{2}#{0} bought {2} for {1} at a cost of ${3}.:|
+{0}给{1}买了{2}#{0} bought {2} for {1}.:|
+摸头#Touch head:|
+摸身体#Touch body:|
+捏脸#Pinch face:|
+私聊#Private Chat:|
+公聊#Public Chat:|
+大家#Everyone:|
+{0}的{1}#{0}'s {1}:|
+{0}在捏{1}的脸#{0} is pinching {1}'s face.:|
+{0} 悄悄地对你说: {1}#{0} Whispering to you, {1}:|
+{0} 对 {2} 说: {1}#{0} Says to {2}: {1}:|
+{0} 对大家说: {1}#{0} To all of you, say: {1}:|
+和{0}悄悄说#Whisper to {0}:|
+和{0}说#Say it with {0}:|
+给更好的{0}买#Buy for Better {0}:|
+默认存档无法删除,请使用重新开始功能重新开始游戏#Default archive cannot be deleted, please restart the game using the restart function.:|
+当前多开已经加载,请先关闭改多开后重试#Please close the multicomputer and try again.:|
+删除前确认#Confirm before deleting:|
+是否删除当前选择({0})的多开存档?#Do you want to delete the currently selected ({0}) multi save?:|
+开始工作#Start Working:|
+开始学习#Start Learning:|
+开始玩耍#Start Playing:|
+复制全文#Copy full text:|
+关闭#Close:|
+theme#Theme:|
+主持人#Host:|
+访客列表#Visitor List:|
+消息日志#Message Log:|
+允许好友加入#Allow Friends to Join:|
+选择说话对象#Select who to talk to:|
+访客#Visitors:|
+来自#From:|
+重置位置#ResetLoc:|
+送客#SendGuest:|
+您以前遭遇过数据溢出, 已根据游戏时长自动添加进当前数值#You have encountered data overflow before, and the current value has been automatically added according to the game duration:|
+数据溢出恢复#Data overflow recovery:|
+如果比较重要或需要反馈,请联系:\rB站: 虚拟桌宠模拟器 \r邮箱: service@exlb.net \rGithub: https://github.com/LorisYounger/VPet#If it is important or needs feedback, please contact:\rMail: service@exlb.net\rGithub: https://github.com/LorisYounger/VPet:|
+工作面板#Work Panel:|
+获得效率#Efficiency:|
+饱腹消耗#Hunger use:|
+口渴消耗#Thirst use:|
+心情消耗#Mood use:|
+等级限制#Level limit:|
+花费时间#Time spent:|
+奖励倍率#Reward muti:|
+倍率调整#Muti adjust:|
+允许好友交互#Allow friends to interact:|
+详细内容信息#Details:|
+详细描述\reg:报错详细信息#Details\reg:Error details:|
+是否上传当前游戏存档#Do you want to upload the current game archive?:|
+Alibaba PuHuiTi Regular#Alibaba PuHuiTi Regular:|
+HarmonyOS Sans#HarmonyOS Sans:|
+MiSans Regular#MiSans Regular:|
+OPPOSans R#OPPOSans R:|
+凤凰点阵体 12px#Phoenix 12px:|
+得意黑#DeYi Black:|
+原版默认#Original Default:|
+混色紫#Mixed Purple:|
+当前工作数据属性超模,已自动取消#The current work data attribute is supermodel, and it has been automatically cancelled:|
+{0}花费${3}给{4}的{1}买了{2}#{0} bought {2} for {4}'s {1} at a cost of ${3}.:|
+{0}给{3}的{1}买了{2}#{0} bought {2} for {3}'s {1}.:|
+已将当前选择 {0} 设为默认启动存档#The current selection {0} has been set as the default startup archive:|
+默认#Default:|
+设置当前多开存档为默认启动项#Set the current multi-save archive as the default startup item:|
+检测到游戏库中包含使命召唤,建议不要在运行COD时运行桌宠\n根据社区反馈, COD可能会误报桌宠为作弊软件#It is detected that the game library contains Call of Duty. It is recommended not to run the desktop pet while running COD\nAccording to community feedback, COD may misreport the desktop pet as cheating software:|
+好的#OK:|
+是#Yes:|
+否#No:|

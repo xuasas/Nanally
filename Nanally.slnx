@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/VPet/VPet-Simulator.Core/VPet-Simulator.Core.csproj" />
+  <Project Path="src/VPet/VPet-Simulator.Windows.Interface/VPet-Simulator.Windows.Interface.csproj" />
+  <Project Path="src/VPet/VPet-Simulator.Windows/VPet-Simulator.Windows.csproj" />
+</Solution>
