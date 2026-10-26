@@ -18,6 +18,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Threading;
 using VPet_Simulator.Core;
 using VPet_Simulator.Windows.Interface;
@@ -33,6 +34,19 @@ namespace VPet_Simulator.Windows
         MainWindow mw;
         private bool AllowChange = false;
         private void ButtonRestart_Click(object sender, RoutedEventArgs e) => mw.Restart();
+
+        private void ProjectLink_RequestNavigate(object sender, RequestNavigateEventArgs e)
+        {
+            e.Handled = true;
+            try
+            {
+                Process.Start(new ProcessStartInfo("https://github.com/xuasas/Nanally") { UseShellExecute = true });
+            }
+            catch (Exception exception) when (exception is System.ComponentModel.Win32Exception or InvalidOperationException)
+            {
+                MessageBoxX.Show("无法打开浏览器，请手动访问项目地址：https://github.com/xuasas/Nanally");
+            }
+        }
 
         public winGameSetting(MainWindow mw)
         {

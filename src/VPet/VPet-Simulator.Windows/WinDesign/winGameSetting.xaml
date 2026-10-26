@@ -741,8 +741,15 @@
                 <StackPanel x:Name="AboutContent" Margin="12">
                     <TextBlock Text="娜娜莉桌宠" FontSize="22" FontWeight="Bold" />
                     <TextBlock Margin="0,12,0,0" Text="本机独立运行。聊天仅连接你在 AI 设置中指定的模型服务。" TextWrapping="Wrap" />
+                    <TextBlock Margin="0,12,0,0" Text="本项目作者：xuasas" FontWeight="SemiBold" TextWrapping="Wrap" />
+                    <TextBlock Margin="0,8,0,0" Text="如果喜欢娜娜莉桌宠，欢迎到项目 GitHub 页面点一颗 Star，支持我继续完善。" TextWrapping="Wrap" />
+                    <TextBlock Margin="0,8,0,0" TextWrapping="Wrap">
+                        <Run Text="项目地址：" />
+                        <Hyperlink NavigateUri="https://github.com/xuasas/Nanally" RequestNavigate="ProjectLink_RequestNavigate"
+                                   Foreground="{DynamicResource NanallyAccent}">github.com/xuasas/Nanally</Hyperlink>
+                    </TextBlock>
                     <TextBlock Margin="0,12,0,0" Text="基于 VPet 开源动画与交互引擎开发。上游作者：LorisYounger 及贡献者。" TextWrapping="Wrap" />
-                    <TextBlock Margin="0,12,0,0" Text="开源许可与第三方署名见程序目录的 LICENSE 和 THIRD-PARTY-NOTICES.md。" TextWrapping="Wrap" />
+                    <TextBlock Margin="0,12,0,0" Text="开源许可与第三方署名见程序目录的 LICENSE 和 THIRD-PARTY-NOTICES 文件。" TextWrapping="Wrap" />
                 </StackPanel>
             </TabItem>
             <TabItem x:Name="CompanionSettingsTab" Header="AI 设置">
